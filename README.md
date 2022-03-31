@@ -1,4 +1,6 @@
-# Kraken API Challenge
+# Kraken API
+
+This is just a playground for testing Combine and SwiftUI. 
 
 I have created a main project (Kraken) and a core project (KrakenCore). The main project contains the code related to the lifecycle and front end of the app, and the core project currently contains network and model classes. Other objects could in theory be placed in the core project, e.g. access to files on disc, formatters that could be used within multiple other projects, user defaults acess etc. It is a bit overkill for a small demo project, but I wanted to show how I normally setup projects
 
